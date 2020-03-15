@@ -6,4 +6,7 @@ function b(x){
     console.log(x);
 }
 222
+function c(x){
+   console.log(x);
+}
 333
